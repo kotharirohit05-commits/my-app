@@ -51,7 +51,7 @@ function Bzbenefit() {
       </ul>
 
       <p>
-        By the end of the program, students are transformed into 
+        By the end of the program, students ares transformed into 
         <strong> job-ready professionals</strong> who can confidently compete 
         with the best minds in the industry. With Being Zero, 
         you don’t just learn — you <em>evolve</em> into a world-class problem solver.
